@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Test-Assessment-GraffersID/static/css/main.69430406.css",
+    "main.css": "/Test-Assessment-GraffersID/static/css/main.8bad339a.css",
     "main.js": "/Test-Assessment-GraffersID/static/js/main.a784487b.js",
     "index.html": "/Test-Assessment-GraffersID/index.html",
-    "main.69430406.css.map": "/Test-Assessment-GraffersID/static/css/main.69430406.css.map",
+    "main.8bad339a.css.map": "/Test-Assessment-GraffersID/static/css/main.8bad339a.css.map",
     "main.a784487b.js.map": "/Test-Assessment-GraffersID/static/js/main.a784487b.js.map"
   },
   "entrypoints": [
-    "static/css/main.69430406.css",
+    "static/css/main.8bad339a.css",
     "static/js/main.a784487b.js"
   ]
 }
